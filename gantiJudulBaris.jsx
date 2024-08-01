@@ -40,7 +40,7 @@ var kecData = ['Wamena',
 'Popugoba'
 ];
 var kabData = 'Jayawijaya';
-var judulKeywords = ['Provinsi', '(1)']; // Kata kunci untuk mencari baris judul
+var judulKeywords = ['Kecamatan', '(1)']; // Kata kunci untuk mencari baris judul
 
 
     var doc = app.activeDocument;
